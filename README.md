@@ -4,8 +4,8 @@
 Email Me 👉 ✉️ **aabidnation@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Frontend website related to blogs
-- 🌱 **I’m currently learning:**JavaScript
-- 👯 **I’m looking to collaborate on:**Blog Website
+- 🌱 **I’m currently learning:** JavaScript
+- 👯 **I’m looking to collaborate on:** Blog Website
 - 🤔 **I’m looking for help with:** Light and dark mode in my website
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** Aabidnation@gmail.com
